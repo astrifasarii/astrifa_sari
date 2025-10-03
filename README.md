@@ -1,19 +1,29 @@
-# Aplikasi-Perpustakaan(Visual Studio)
- Aplikasi perpustakkan yang dibuat menggunakan visual studio 2012 dan database Mysql
- 
-# Fitur :
- 1. Data Anggota
- 2. Data Buku
- 3. Transaksi Peminjaman & Pengembalian
- 4. Login
- 
- # Screenshot
-![buku](https://user-images.githubusercontent.com/33270746/69979676-4f059b80-1561-11ea-94d5-2d8e0c066962.png)
+# Personal Website
 
-![menu](https://user-images.githubusercontent.com/33270746/69979677-4f059b80-1561-11ea-8430-ba17a2381d13.png)
+HELLO this is my personal website where I showcase my portfolio and blog about web development.
 
-![peminjaman](https://user-images.githubusercontent.com/33270746/69979678-4f9e3200-1561-11ea-9cbd-e19f478fed9f.png)
+## Links
 
-![pengembalian](https://user-images.githubusercontent.com/33270746/69979679-4f9e3200-1561-11ea-85d7-ae5936eb9c30.png)
+- [My Portfolio](https://www.figma.com/design/U4gyyVG99oA5ByWk9utkfr/website?node-id=0-1&p=f&t=FRE2gOXaI6R8Xf36-0)
+- [UI/UX Design Resources](https://www.figma.com/proto/U4gyyVG99oA5ByWk9utkfr/website?node-id=1-2&t=FRE2gOXaI6R8Xf36-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
- 
+## Social Media
+
+- [GitHub](https://github.com/astrifasarii)
+- [LinkedIn](https://linkedin.com/)
+- [Instagram](https://instagram.com/astrifasarii)
+
+## Pages
+
+- Home
+- About
+- Project
+- Contact
+
+## Technologies Used
+
+- HTML
+
+## Preview
+
+![alt text](image.png)
