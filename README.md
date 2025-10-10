@@ -10,7 +10,7 @@ HELLO this is my personal website where I showcase my portfolio and blog about w
 ## Social Media
 
 - [GitHub](https://github.com/astrifasarii)
-- [LinkedIn](https://linkedin.com/)
+- [LinkedIn](https://linkedin.com/waode-astrifa-sari)
 - [Instagram](https://instagram.com/astrifasarii)
 
 ## Pages
@@ -22,7 +22,9 @@ HELLO this is my personal website where I showcase my portfolio and blog about w
 
 ## Technologies Used
 
-- HTML
+- HTML  
+- CSS  
+- JavaScript
 
 ## Preview
 

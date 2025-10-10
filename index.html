@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Home | Waode Astrifa S.</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: "Poppins", sans-serif;
+    }
+
+    body {
+      background: linear-gradient(to bottom, #000000, #ff4fa3);
+      color: white;
+      min-height: 100vh;
+    }
+
+    nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 25px 100px;
+    }
+
+    nav .logo {
+      font-size: 20px;
+      font-weight: bold;
+    }
+
+    nav ul {
+      list-style: none;
+      display: flex;
+      gap: 40px;
+    }
+
+    nav ul li a {
+      color: white;
+      text-decoration: none;
+      font-size: 18px;
+      transition: 0.3s;
+    }
+
+    nav ul li a:hover {
+      color: #ff4fa3;
+    }
+
+    .hero {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 100px 150px;
+    }
+
+    .hero-text h1 {
+      font-size: 70px;
+      font-weight: 700;
+      line-height: 1.1;
+    }
+
+    .hero-text h1 .pink {
+      color: #ff4fa3;
+    }
+
+    .hero-text h2 {
+      font-size: 36px;
+      margin-top: 10px;
+      font-weight: 600;
+    }
+
+    .hero-text p {
+      margin: 20px 0;
+      font-size: 20px;
+      color: #ddd;
+    }
+
+    .btn {
+      background-color: #ff4fa3;
+      color: white;
+      padding: 14px 30px;
+      font-size: 18px;
+      border-radius: 8px;
+      text-decoration: none;
+      transition: 0.3s;
+    }
+
+    .btn:hover {
+      background-color: #ff80bf;
+      transform: scale(1.05);
+    }
+
+    .hero-img img {
+      width: 320px;
+      height: 320px;
+      border-radius: 50%;
+      object-fit: cover;
+      background-color: #ff4fa3;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <div class="logo">portofolio</div>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="project.html">Project</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+
+  <section class="hero">
+    <div class="hero-text">
+      <h1><span class="pink">Hello,</span><br> I'm Waode Astrifa S.</h1>
+      <p>Student Information System</p>
+      <a href="#" class="btn">Download CV</a>
+    </div>
+    <div class="hero-img">
+      <img src="assets/profile.png" alt="Waode Astrifa">
+    </div>
+  </section>
+</body>
+</html>
