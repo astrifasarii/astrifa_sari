@@ -1,0 +1,298 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background: linear-gradient(to bottom, #000000, #ff4fa3);
+  color: white;
+  min-height: 100vh;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px 100px;
+}
+
+nav .logo {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 40px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  transition: 0.3s;
+}
+
+nav ul li a:hover {
+  color: #ff4fa3;
+}
+
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 100px 150px;
+}
+
+.hero-text h1 {
+  font-size: 70px;
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+.hero-text h1 .pink {
+  color: #ff4fa3;
+  margin-right: 10px;
+}
+
+.hero-text p {
+  margin: 20px 0;
+  font-size: 20px;
+  color: #ddd;
+}
+
+.btn {
+  background-color: #ff4fa3;
+  color: white;
+  padding: 14px 30px;
+  font-size: 18px;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background-color: #ff80bf;
+  transform: scale(1.05);
+}
+
+.hero-img img {
+  width: 320px;
+  height: 320px;
+  border-radius: 50%;
+  object-fit: cover;
+  background-color: #ff4fa3;
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background: linear-gradient(to bottom, #000, #ff4fa3);
+  color: white;
+  min-height: 100vh;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px 100px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 40px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  transition: 0.3s;
+}
+
+nav ul li a:hover {
+  color: #ff4fa3;
+}
+
+.about-section {
+  padding: 100px 150px;
+  display: flex;
+  gap: 50px;
+  align-items: center;
+}
+
+.about-section img {
+  width: 250px;
+  border-radius: 20px;
+}
+
+.about-section .text {
+  max-width: 600px;
+}
+
+.about-section h2 {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+.about-section p {
+  font-size: 18px;
+  line-height: 1.8;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background: linear-gradient(to bottom, #000, #ff4fa3);
+  color: white;
+  min-height: 100vh;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px 100px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 40px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  transition: 0.3s;
+}
+
+nav ul li a:hover {
+  color: #ff4fa3;
+}
+
+.project-section {
+  text-align: center;
+  padding: 100px 0;
+}
+
+.project-section h2 {
+  font-size: 40px;
+  margin-bottom: 40px;
+}
+
+.project-list {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+
+.project-card {
+  background-color: #222;
+  padding: 20px;
+  border-radius: 15px;
+  width: 250px;
+  transition: 0.3s;
+}
+
+.project-card:hover {
+  transform: scale(1.05);
+  background-color: #ff4fa3;
+}
+
+.project-card img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.project-card p {
+  margin-top: 10px;
+  font-size: 18px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background: linear-gradient(to bottom, #000, #ff4fa3);
+  color: white;
+  min-height: 100vh;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px 100px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 40px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  transition: 0.3s;
+}
+
+nav ul li a:hover {
+  color: #ff4fa3;
+}
+
+.contact-section {
+  text-align: center;
+  padding: 120px 0;
+}
+
+.contact-section h2 {
+  font-size: 40px;
+  margin-bottom: 30px;
+}
+
+.contact-section p {
+  font-size: 20px;
+  margin-bottom: 40px;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+.social-icons a {
+  color: white;
+  font-size: 40px;
+  transition: 0.3s;
+  text-decoration: none;
+}
+
+.social-icons a:hover {
+  color: #ff4fa3;
+  transform: scale(1.2);
+}
