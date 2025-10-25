@@ -14,7 +14,6 @@ HELLO this is my personal website where I showcase my portfolio and blog about w
 - [Instagram](https://instagram.com/astrifasarii)
 
 ## Pages
-
 - Home
 - About
 - Project
